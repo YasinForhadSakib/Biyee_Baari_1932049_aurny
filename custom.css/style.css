@@ -1,0 +1,33 @@
+/* custom css shit */
+
+.biyee-header-bg{
+    background-color: #d69292;
+}
+.fa-star.filled{
+    color: #f7b900;
+}
+.fa-star.empty{
+
+    color: rgb(153, 146, 146);
+}
+.clients-name{
+    font-weight: 700;
+    color: #7a012e;
+}
+.biyee-btn-bg{
+    background-color: #34b6ad;
+    color: #fff;
+    border-color: #347974;
+    border-radius: 5px;
+    width: 168px;
+    height: 48px;
+    line-height: 1;
+    padding: 10px;
+    cursor: pointer;
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;   
+}
